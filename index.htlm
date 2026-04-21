@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DERA AUTO DYNAMICS - Original Truck Parts Accra | Ikechukwu Emmanuel Odera</title>
+    <meta name="description" content="DERA AUTO DYNAMICS by Ikechukwu Emmanuel Odera. Original MAN, DAF, Sinotruk truck & generator parts in Accra, Ghana. Call 0591584232">
+    <style>
+        * {margin:0; padding:0; box-sizing:border-box; font-family:Arial, sans-serif;}
+        body {line-height:1.6; color:#333;}
+        .container {width:90%; max-width:1100px; margin:auto; padding:20px 0;}
+        header {background:#0B2C4D; color:#fff; padding:60px 0; text-align:center;}
+        header h1 {font-size:2.5rem; margin-bottom:10px;}
+        header p {font-size:1.2rem; margin-bottom:20px;}
+        .btn {display:inline-block; background:#25D366; color:#fff; padding:15px 30px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1rem;}
+        .btn:hover {background:#1ebe57;}
+        section {padding:50px 0;}
+        h2 {text-align:center; color:#0B2C4D; margin-bottom:30px; font-size:2rem;}
+        .products {display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:20px;}
+        .card {border:1px solid #ddd; border-radius:8px; padding:20px; text-align:center;}
+        .card h3 {margin:15px 0 10px; color:#0B2C4D;}
+        .price {font-size:1.3rem; font-weight:bold; color:#D72638; margin:10px 0;}
+        .brands {display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:20px;}
+        .brand {background:#f4f4f4; padding:10px 20px; border-radius:5px; font-weight:bold;}
+        .about {background:#f9f9f9;}
+        .contact {text-align:center;}
+        .contact-info {font-size:1.2rem; margin:15px 0;}
+        footer {background:#0B2C4D; color:#fff; text-align:center; padding:20px 0; font-size:0.9rem;}
+        .whatsapp-float {position:fixed; bottom:20px; right:20px; z-index:100;}
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>DERA AUTO DYNAMICS</h1>
+            <p>Original Truck & Generator Parts in Accra, Ghana</p>
+            <p>MAN • DAF • Sinotruk • Toyota • Hyundai</p>
+            <a href="https://wa.me/233591584232?text=Hello%20DERA%20AUTO%20DYNAMICS%2C%20I%20need%20parts" class="btn">Chat on WhatsApp</a>
+        </div>
+    </header>
+
+    <section>
+        <div class="container">
+            <h2>Top Parts In Stock</h2>
+            <div class="products">
+                <div class="card">
+                    <h3>Oil Filter - MAN TGX</h3>
+                    <p>Part No: 51.05504-0012</p>
+                    <div class="price">GH₵180</div>
+                    <a href="https://wa.me/233591584232?text=I%20need%20Oil%20Filter%20MAN%20TGX%2051.05504-0012" class="btn">Order Now</a>
+                </div>
+                <div class="card">
+                    <h3>Fuel Filter - DAF CF</h3>
+                    <p>Part No: 1397765</p>
+                    <div class="price">GH₵220</div>
+                    <a href="https://wa.me/233591584232?text=I%20need%20Fuel%20Filter%20DAF%20CF%201397765" class="btn">Order Now</a>
+                </div>
+                <div class="card">
+                    <h3>Spark Plugs Set - Toyota</h3>
+                    <p>Part No: 90919-01253</p>
+                    <div class="price">GH₵95</div>
+                    <a href="https://wa.me/233591584232?text=I%20need%20Spark%20Plugs%20Toyota%2090919-01253" class="btn">Order Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about">
+        <div class="container">
+            <h2>About DERA AUTO DYNAMICS</h2>
+            <p style="text-align:center; max-width:700px; margin:auto; font-size:1.1rem;">
+                Founded and run by <strong>Ikechukwu Emmanuel Odera</strong>, we supply original & OEM quality parts to garages, 
+                fleet owners, and mechanics across Ghana. Based in Accra, we specialize in MAN, DAF, Sinotruk, 
+                Toyota and Hyundai trucks. No fakes. Fast delivery. Send your chassis number for exact match.
+            </p>
+            <div class="brands">
+                <div class="brand">MAN</div>
+                <div class="brand">DAF</div>
+                <div class="brand">SINOTRUK</div>
+                <div class="brand">TOYOTA</div>
+                <div class="brand">HYUNDAI</div>
+                <div class="brand">ISUZU</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Ikechukwu Emmanuel Odera</h2>
+            <div class="contact-info"><strong>Call/WhatsApp:</strong> 0591 584 232</div>
+            <div class="contact-info"><strong>Location:</strong> Dansoman, Accra, Ghana</div>
+            <div class="contact-info"><strong>Hours:</strong> Mon-Sat 8am - 6pm</div>
+            <p style="margin:20px 0;">Send your chassis number or part number for fastest service</p>
+            <a href="https://wa.me/233591584232?text=Hello%20Mr%20Odera%2C%20my%20chassis%20number%20is%20" class="btn">Send Chassis Number</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 DERA AUTO DYNAMICS | Owned by Ikechukwu Emmanuel Odera</p>
+            <p>Original Parts Supplier | Accra, Ghana</p>
+        </div>
+    </footer>
+
+    <a href="https://wa.me/233591584232" class="whatsapp-float">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="60">
+    </a>
+
+</body>
+</html>
